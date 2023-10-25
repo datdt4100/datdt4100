@@ -13,7 +13,7 @@ Hi,
 
 <img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 
-- 🔭 I'm Dang Tran Dat,a passionate engineering graduate specialised in computer engineering.
+- 🔭 I'm Dang Tran Dat, a passionate engineering graduate specializing in computer engineering.
 
 - 🌱 Enthusiastic in Artificial Intelligence and Internet of Things Application Development.
 
@@ -23,7 +23,7 @@ Hi,
   
 -  Artificial Intelligence, Machine Learning, Deep Learning and IoT Application Development
   
--  libraries: Torch, Keras, OpenCV, Scikit-learn, Numpy, Pandas, Matplotlib and so on.
+-  libraries: Torch, Keras, OpenCV, Scikit-learn, Numpy, Pandas, Matplotlib, and so on.
 
 - 💬 Ask me about anything, I am happy to help
   
