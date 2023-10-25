@@ -39,7 +39,7 @@ Hi,
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,py,c,cpp,css,express,github,html,js,php,linux,md,mysql,nodejs,react,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,arduino,css,express,github,git,bootstrap,html,js,php,linux,md,mysql,nodejs,react,vscode&perline=14" />
   </a>
 </p>
 
